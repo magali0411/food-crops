@@ -10,6 +10,7 @@ Systèmes d'exploitation
 
 Librairie python 
 > pandas
+> argparse
 
 Pour installer les modules nécessaires au bon fonctionnnement de food-crops:
 ```
